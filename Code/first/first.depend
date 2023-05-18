@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1601095623 source:e:\c++\code\first\cube.cpp
+
+1601101512 source:e:\c++\code\first\main.cpp
+	<iostream>
+	<map>
+	"cube.h"
+
+1601101028 e:\c++\code\first\cube.h
+

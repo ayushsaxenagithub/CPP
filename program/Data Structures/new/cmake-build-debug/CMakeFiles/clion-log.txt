@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "E:\c++\program\Data Structures\new"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/c++/program/Data Structures/new/cmake-build-debug

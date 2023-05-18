@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624207653 source:e:\c++\code\testing\main.cpp
+	<string>
+	<conio.h>
+

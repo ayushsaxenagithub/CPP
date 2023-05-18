@@ -1,0 +1,13 @@
+Hello Everyone,
+Today, we'll look at the difference between the C++ and Python in terms of programming time.
+We will run the (for) Query for thousands,ten thousand, lakh times in both the C++ and Python.
+
+For Query(Frequency)             Code Blocks Timing             VS Code Timing
+1000                              seconds              0.513923 seconds
+10000                             seconds              4.950590 seconds
+100000                            seconds                        seconds
+
+As you can see that Python takes less time than the C++.
+Here We use TDM GCC for C++ and Python 3.8.
+
+Thank you Everyone,
